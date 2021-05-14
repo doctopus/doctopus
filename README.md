@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![Visitors](https://page-views.glitch.me/badge?page_id=page.id)
+![Visitors](https://page-views.glitch.me/badge?page_id=doctopus.visitor-badge)
 
 <!---
 doctopus/doctopus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
