@@ -7,18 +7,18 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=doctopus.github.io&theme=graywhite&show_owner=TRUE" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=doctopus.github.io&theme=vue&show_owner=TRUE" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=r4ds&theme=graywhite&show_owner=TRUE" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=r4ds&theme=vue&show_owner=TRUE" />
 </a>
 <br/>
 <br/>
 
 
-[![GitHub stats of Doctopus](https://github-readme-stats.vercel.app/api?username=doctopus&theme=graywhite&hide=prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats of Doctopus](https://github-readme-stats.vercel.app/api?username=doctopus&theme=vue&hide=prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doctopus&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doctopus&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 <br/>
