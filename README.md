@@ -8,27 +8,25 @@
 </h3>
 <br>
 
-
-
-
 <div align="center">
+  
+[![GitHub stats of Doctopus](https://github-readme-stats.vercel.app/api?username=doctopus&theme=vue-dark&hide=prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=doctopus&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />  
 
+<br>  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=doctopus.github.io&theme=vue&show_owner=TRUE" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=doctopus.github.io&theme=vue-dark&show_owner=TRUE" />
 </a>
+
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=r4ds&theme=vue&show_owner=TRUE" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=r4ds&theme=vue-dark&show_owner=TRUE" />
 </a>
-<br/>
-<br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doctopus&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub stats of Doctopus](https://github-readme-stats.vercel.app/api?username=doctopus&theme=vue&hide=prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doctopus&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
-<br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doctopus&layout=compact&theme=vue-dark&hide_border=true" />
+<br>
+<br>
 
 [![Visitors](https://page-views.glitch.me/badge?page_id=doctopus.visitor-badge)](https://page-views.glitch.me/)
 
