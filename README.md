@@ -10,7 +10,8 @@
 
 <div align="center">
   
-[![GitHub stats of Doctopus](https://github-readme-stats.vercel.app/api?username=doctopus&theme=vue-dark&hide=prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats of Doctopus](https://github-readme-stats.vercel.app/api?username=doctopus&theme=vue-dark&hide=prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+  <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=doctopus&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />  
 
 <br>  
