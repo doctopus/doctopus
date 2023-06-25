@@ -1,35 +1,24 @@
 <h1 style="font-weight:normal" align="center">
-  &nbsp;Hi, I'm Doctopus! 🐙&nbsp;
+  &nbsp;This is Doctopus! 🩺🐙&nbsp;
 </h1>
 
 
 <h3 align="center">
  🧪 Clinical Research and Data Visualization 📊
 </h3>
-<br>
-
 <div align="center">
   
-[![GitHub stats of Doctopus](https://github-readme-stats.vercel.app/api?username=doctopus&theme=vue-dark&hide=prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![GitHub stats of Doctopus](https://github-readme-stats.vercel.app/api?username=doctopus&theme=vue-dark&hide=prs&show_icons=true)](https://github.com/doctopus/github-readme-stats) 
   <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=doctopus&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />  
 
-<br>  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=doctopus.github.io&theme=vue-dark&show_owner=TRUE" />
+<a href="https://github.com/doctopus/ctDNA-Dataviz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=ctDNA-Dataviz&theme=vue-dark&show_owner=TRUE" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=r4ds&theme=vue-dark&show_owner=TRUE" />
+<a href="https://github.com/doctopus/NGS-Report-Extractor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=NGS-Report-Extractor&theme=vue-dark&show_owner=TRUE" />
 </a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doctopus&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doctopus&layout=compact&theme=vue-dark&hide_border=true" />
-<br>
-<br>
-
-[![Visitors](https://page-views.glitch.me/badge?page_id=doctopus.visitor-badge)](https://page-views.glitch.me/)
 
 </div>
 
