@@ -5,9 +5,10 @@
 <h3 align="center">
  🧪 Clinical Research, 🧬 Genetics, 🕶️ DataViz & 🖥️ WebDev 🪭
 </h3>
+
 <!-- Top Languages & Streaks-->
-[![Doctopus's GitHub Top Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=doctopus&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/doctopus#gh-dark-mode-only)
-[![Doctopus's GitHub Top Languages-Light](https://github-readme-stats.vercel.app/api/top-langs?username=doctopus&show_icons=true&locale=en&layout=compact&theme=default#gh-light-mode-only)](https://github.com/doctopus#gh-light-mode-only)
+[![Doctopus's GitHub Top Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=doctopus&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/doctopus#gh-dark-mode-only)
+[![Doctopus's GitHub Top Languages-Light](https://github-readme-stats.vercel.app/api/top-langs?username=doctopus&show_icons=true&locale=en&layout=compact&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/doctopus#gh-light-mode-only)
 [![Doctopus's Github Streaks -Dark](https://github-readme-streak-stats.herokuapp.com?user=doctopus&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=490&theme=dark#gh-dark-mode-only)](https://github.com/doctopus#gh-dark-mode-only)
 [![Doctopus's Github Streaks -Light](https://github-readme-streak-stats.herokuapp.com?user=doctopus&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=490&theme=light#gh-light-mode-only)](https://github.com/doctopus#gh-light-mode-only)
 <!-- Snake GIF -->
@@ -23,10 +24,10 @@
 [![Doctopus's Readme Stats -Dark](https://github-readme-stats.vercel.app/api?username=doctopus&hide=prs&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/doctopus#gh-dark-mode-only)
 [![Doctopus's Readme Stats -Light](https://github-readme-stats.vercel.app/api?username=doctopus&hide=prs&show_icons=true&hide_border=true&theme=light#gh-light-mode-only)](https://github.com/doctopus#gh-light-mode-only)
 <!-- Important Repos -->
-[![Doctopus's Noteworthy Repo 1-Dark](https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=ctDNA-Dataviz&show_owner=TRUE&theme=dark#gh-dark-mode-only)](https://github.com/doctopus#gh-dark-mode-only)
-[![Doctopus's Noteworthy Repo 1-Light](https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=ctDNA-Dataviz&show_owner=TRUE&theme=light#gh-light-mode-only)](https://github.com/doctopus#gh-light-mode-only)
-[![Doctopus's Noteworthy Repo 2 -Dark](https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=NGS-Report-Extractor&theme=dark#gh-dark-mode-only&show_owner=TRUE)](https://github.com/doctopus#gh-dark-mode-only)
-[![Doctopus's Noteworthy Repo 2 -Light](https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=NGS-Report-Extractor&theme=light#gh-light-mode-only&show_owner=TRUE)](https://github.com/doctopus#gh-light-mode-only)
+[![Doctopus's Noteworthy Repo 1-Dark](https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=ctDNA-Dataviz&show_owner=TRUE&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/doctopus#gh-dark-mode-only)
+[![Doctopus's Noteworthy Repo 1-Light](https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=ctDNA-Dataviz&show_owner=TRUE&hide_border=true&theme=light#gh-light-mode-only)](https://github.com/doctopus#gh-light-mode-only)
+[![Doctopus's Noteworthy Repo 2 -Dark](https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=NGS-Report-Extractor&hide_border=true&theme=dark#gh-dark-mode-only&show_owner=TRUE)](https://github.com/doctopus#gh-dark-mode-only)
+[![Doctopus's Noteworthy Repo 2 -Light](https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=NGS-Report-Extractor&hide_border=true&theme=light#gh-light-mode-only&show_owner=TRUE)](https://github.com/doctopus#gh-light-mode-only)
 
 
 <!-- Languages and Tools -->
@@ -56,7 +57,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://as1.ftcdn.net/v2/jpg/03/03/36/10/1000_F_303361005_B3EgdOHbgeoEieg7M3GnFpyYBhO274l9.jpg" />
   <source media="(prefers-color-scheme: light)" srcset="https://as2.ftcdn.net/v2/jpg/07/20/20/93/1000_F_720209306_FnzlBQVgW688h1HcP0ik6ppVpD8mjguq.webp" />
-  <img alt="light and dark headers" src="github-snake.svg" />
+  <img alt="light and dark headers based on github theme" src="github-snake.svg" />
 </picture> 
 </div>
 
