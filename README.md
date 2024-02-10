@@ -1,16 +1,19 @@
+<div align="center">
 <h1 style="font-weight:normal" align="center">
   &nbsp;🥼🩺 Doctopus 🐙🦑&nbsp;
 </h1>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://as1.ftcdn.net/v2/jpg/03/03/36/10/1000_F_303361005_B3EgdOHbgeoEieg7M3GnFpyYBhO274l9.jpg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://as2.ftcdn.net/v2/jpg/07/20/20/93/1000_F_720209306_FnzlBQVgW688h1HcP0ik6ppVpD8mjguq.webp" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture> 
 <h3 align="center">
  🧪 Clinical Research, 🧬 Genetics, 🕶️ DataViz & 🖥️ WebDev 🪭
 </h3>
-<div align="center">
 
-<!-- Portfolio -->
-💻 Find my portfolio at [doctopus.github.io](https://doctopus.github.io)
 <!-- Top Languages -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=doctopus&show_icons=true&locale=en&layout=compact" alt="karthikmurali60" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=doctopus&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only" alt="karthikmurali60" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=doctopus&show_icons=true&locale=en&layout=compact&theme=default#gh-light-mode-only" alt="karthikmurali60" />
 <!-- Streaks -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=doctopus&theme=light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My GitHub streaks" />  
 <br>
@@ -60,6 +63,9 @@
 </p>
 
 </div>
+
+<!-- Portfolio -->
+💻 Find my portfolio at [doctopus.github.io](https://doctopus.github.io)
 <!-- Profile Views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doctopus&label=Profile%20views&color=0e75b6&style=flat" alt="doctopus" /> </p>
 
