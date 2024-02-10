@@ -5,17 +5,18 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://as1.ftcdn.net/v2/jpg/03/03/36/10/1000_F_303361005_B3EgdOHbgeoEieg7M3GnFpyYBhO274l9.jpg" />
   <source media="(prefers-color-scheme: light)" srcset="https://as2.ftcdn.net/v2/jpg/07/20/20/93/1000_F_720209306_FnzlBQVgW688h1HcP0ik6ppVpD8mjguq.webp" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <img alt="light and dark headers" src="github-snake.svg" />
 </picture> 
 <h3 align="center">
  🧪 Clinical Research, 🧬 Genetics, 🕶️ DataViz & 🖥️ WebDev 🪭
 </h3>
 
 <!-- Top Languages -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=doctopus&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only" alt="karthikmurali60" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=doctopus&show_icons=true&locale=en&layout=compact&theme=default#gh-light-mode-only" alt="karthikmurali60" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=doctopus&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only" alt="doctopus" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=doctopus&show_icons=true&locale=en&layout=compact&theme=default#gh-light-mode-only" alt="doctopus" />
 <!-- Streaks -->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=doctopus&theme=light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My GitHub streaks" />  
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=doctopus&theme=light#gh-light-mode-only&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My GitHub streaks" />  
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=doctopus&theme=dark#gh-dark-mode-only&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My GitHub streaks" /> 
 <br>
 <!-- Snake GIF -->
 <br>
@@ -26,16 +27,18 @@
 </picture> 
 <br>
 <!-- Stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=doctopus&theme=light&hide=prs&show_icons=true&hide_border=true" alt="GitHub Stats" />
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=doctopus&theme=light#gh-light-mode-only&hide=prs&show_icons=true&hide_border=true" alt="GitHub Stats -Lightmode" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=doctopus&theme=dark#gh-dark-mode-only&hide=prs&show_icons=true&hide_border=true" alt="GitHub Stats -Darkmode" />
 
 <!-- Important Repos -->
 <a href="https://github.com/doctopus/ctDNA-Dataviz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=ctDNA-Dataviz&theme=light&show_owner=TRUE" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=ctDNA-Dataviz&theme=light#gh-light-mode-only&show_owner=TRUE" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=ctDNA-Dataviz&theme=dark#gh-dark-mode-only&show_owner=TRUE" />
 </a>
 
 <a href="https://github.com/doctopus/NGS-Report-Extractor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=NGS-Report-Extractor&theme=light&show_owner=TRUE" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=NGS-Report-Extractor&theme=light#gh-light-mode-only&show_owner=TRUE" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=NGS-Report-Extractor&theme=dark#gh-dark-mode-only&show_owner=TRUE" />
 </a>
 
 <!-- Languages and Tools -->
