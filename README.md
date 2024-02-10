@@ -12,8 +12,11 @@
 </h3>
 
 <!-- Top Languages -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=doctopus&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only" alt="doctopus" />
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=doctopus&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/doctopus/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=doctopus&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/doctopus/github-readme-stats#gh-light-mode-only)
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=doctopus&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only" alt="doctopus" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=doctopus&show_icons=true&locale=en&layout=compact&theme=default#gh-light-mode-only" alt="doctopus" />
+-->
 <!-- Streaks -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=doctopus&theme=light#gh-light-mode-only&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My GitHub streaks" />  
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=doctopus&theme=dark#gh-dark-mode-only&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My GitHub streaks" /> 
