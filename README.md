@@ -39,14 +39,15 @@
 <!-- Stats -->
 [![Doctopus's Readme Stats -Dark](https://github-readme-stats.vercel.app/api?username=doctopus&theme=dark#gh-dark-mode-only&hide=prs&show_icons=true&hide_border=true)](https://github.com/doctopus)
 [![Doctopus's Readme Stats -Light](https://github-readme-stats.vercel.app/api?username=doctopus&theme=light#gh-light-mode-only&hide=prs&show_icons=true&hide_border=true)](https://github.com/doctopus)
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=doctopus&theme=light#gh-light-mode-only&hide=prs&show_icons=true&hide_border=true" alt="GitHub Stats -Lightmode" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=doctopus&theme=dark#gh-dark-mode-only&hide=prs&show_icons=true&hide_border=true" alt="GitHub Stats -Darkmode" />
--->
+
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=doctopus&theme=light#gh-light-mode-only&hide=prs&show_icons=true&hide_border=true" alt="GitHub Stats -Lightmode" /> -->
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=doctopus&theme=dark#gh-dark-mode-only&hide=prs&show_icons=true&hide_border=true" alt="GitHub Stats -Darkmode" /> -->
+
 <!-- Important Repos -->
-<a href="https://github.com/doctopus/ctDNA-Dataviz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=ctDNA-Dataviz&theme=light#gh-light-mode-only&show_owner=TRUE" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=ctDNA-Dataviz&theme=dark#gh-dark-mode-only&show_owner=TRUE" />
-</a>
+
+[![Doctopus's Noteworthy Repo -Dark](https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=ctDNA-Dataviz&theme=dark#gh-dark-mode-only&show_owner=TRUE)](https://github.com/doctopus)
+[![Doctopus's Noteworthy Repo -Light](https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=ctDNA-Dataviz&theme=light#gh-light-mode-only&show_owner=TRUE)](https://github.com/doctopus)
+
 
 <a href="https://github.com/doctopus/NGS-Report-Extractor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=NGS-Report-Extractor&theme=light#gh-light-mode-only&show_owner=TRUE" />
