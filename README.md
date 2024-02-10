@@ -37,22 +37,26 @@
 <br>
 
 <!-- Stats -->
-[![Doctopus's Readme Stats -Dark](https://github-readme-stats.vercel.app/api?username=doctopus&theme=dark#gh-dark-mode-only&hide=prs&show_icons=true&hide_border=true)](https://github.com/doctopus)
-[![Doctopus's Readme Stats -Light](https://github-readme-stats.vercel.app/api?username=doctopus&theme=light#gh-light-mode-only&hide=prs&show_icons=true&hide_border=true)](https://github.com/doctopus)
+[![Doctopus's Readme Stats -Dark](https://github-readme-stats.vercel.app/api?username=doctopus&theme=dark#gh-dark-mode-only&hide=prs&show_icons=true&hide_border=true)](https://github.com/doctopus#gh-dark-mode-only)
+[![Doctopus's Readme Stats -Light](https://github-readme-stats.vercel.app/api?username=doctopus&theme=light#gh-light-mode-only&hide=prs&show_icons=true&hide_border=true)](https://github.com/doctopus#gh-light-mode-only)
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=doctopus&theme=light#gh-light-mode-only&hide=prs&show_icons=true&hide_border=true" alt="GitHub Stats -Lightmode" /> -->
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=doctopus&theme=dark#gh-dark-mode-only&hide=prs&show_icons=true&hide_border=true" alt="GitHub Stats -Darkmode" /> -->
 
 <!-- Important Repos -->
 
-[![Doctopus's Noteworthy Repo -Dark](https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=ctDNA-Dataviz&theme=dark#gh-dark-mode-only&show_owner=TRUE)](https://github.com/doctopus)
-[![Doctopus's Noteworthy Repo -Light](https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=ctDNA-Dataviz&theme=light#gh-light-mode-only&show_owner=TRUE)](https://github.com/doctopus)
+[![Doctopus's Noteworthy Repo -Dark](https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=ctDNA-Dataviz&theme=dark#gh-dark-mode-only&show_owner=TRUE)](https://github.com/doctopus#gh-dark-mode-only)
+[![Doctopus's Noteworthy Repo -Light](https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=ctDNA-Dataviz&theme=light#gh-light-mode-only&show_owner=TRUE)](https://github.com/doctopus#gh-light-mode-only)
 
+[![Doctopus's Noteworthy Repo 2 -Dark](https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=NGS-Report-Extractor&theme=dark#gh-dark-mode-only&show_owner=TRUE)](https://github.com/doctopus#gh-dark-mode-only)
+[![Doctopus's Noteworthy Repo 2 -Light](https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=NGS-Report-Extractor&theme=light#gh-light-mode-only&show_owner=TRUE)](https://github.com/doctopus#gh-light-mode-only)
 
+<!-- 
 <a href="https://github.com/doctopus/NGS-Report-Extractor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=NGS-Report-Extractor&theme=light#gh-light-mode-only&show_owner=TRUE" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=NGS-Report-Extractor&theme=dark#gh-dark-mode-only&show_owner=TRUE" />
-</a>
+</a> 
+-->
 
 <!-- Languages and Tools -->
 <h3 align="center">Languages and Tools:</h3>
@@ -83,7 +87,7 @@
 <!-- Portfolio -->
 💻 Find my portfolio at [doctopus.github.io](https://doctopus.github.io)
 <!-- Profile Views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=doctopus&label=Profile%20views&color=0e75b6&style=flat" alt="doctopus" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=doctopus&label=Profile%20views&color=0e75b6&style=flat" alt="Doctopus" /> </p>
 
 <!---
 doctopus/doctopus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
