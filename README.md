@@ -12,21 +12,11 @@
 </h3>
 
 <!-- Top Languages -->
-[![Doctopus's GitHub Top Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=doctopus&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/doctopus/github-readme-stats#gh-dark-mode-only)
-[![Doctopus's GitHub Top Languages-Light](https://github-readme-stats.vercel.app/api/top-langs?username=doctopus&show_icons=true&locale=en&layout=compact&theme=default#gh-light-mode-only)](https://github.com/doctopus/github-readme-stats#gh-light-mode-only)
-
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=doctopus&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only" alt="doctopus" /> -->
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=doctopus&show_icons=true&locale=en&layout=compact&theme=default#gh-light-mode-only" alt="doctopus" /> -->
-
-
+[![Doctopus's GitHub Top Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=doctopus&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/doctopus#gh-dark-mode-only)
+[![Doctopus's GitHub Top Languages-Light](https://github-readme-stats.vercel.app/api/top-langs?username=doctopus&show_icons=true&locale=en&layout=compact&theme=default#gh-light-mode-only)](https://github.com/doctopus#gh-light-mode-only)
 <!-- Streaks -->
 [![Doctopus's Github Streaks -Dark](https://github-readme-streak-stats.herokuapp.com?user=doctopus&theme=dark#gh-dark-mode-only&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/doctopus#gh-dark-mode-only)
 [![Doctopus's Github Streaks -Light](https://github-readme-streak-stats.herokuapp.com?user=doctopus&theme=light#gh-light-mode-only&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/doctopus#gh-light-mode-only)
-
-<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=doctopus&theme=light#gh-light-mode-only&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My GitHub streaks" />  -->
-<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=doctopus&theme=dark#gh-dark-mode-only&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My GitHub streaks" /> --> 
-
-<br>
 <!-- Snake GIF -->
 <br>
 <picture>
@@ -39,24 +29,13 @@
 <!-- Stats -->
 [![Doctopus's Readme Stats -Dark](https://github-readme-stats.vercel.app/api?username=doctopus&theme=dark#gh-dark-mode-only&hide=prs&show_icons=true&hide_border=true)](https://github.com/doctopus#gh-dark-mode-only)
 [![Doctopus's Readme Stats -Light](https://github-readme-stats.vercel.app/api?username=doctopus&theme=light#gh-light-mode-only&hide=prs&show_icons=true&hide_border=true)](https://github.com/doctopus#gh-light-mode-only)
-
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=doctopus&theme=light#gh-light-mode-only&hide=prs&show_icons=true&hide_border=true" alt="GitHub Stats -Lightmode" /> -->
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=doctopus&theme=dark#gh-dark-mode-only&hide=prs&show_icons=true&hide_border=true" alt="GitHub Stats -Darkmode" /> -->
-
 <!-- Important Repos -->
-
 [![Doctopus's Noteworthy Repo -Dark](https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=ctDNA-Dataviz&theme=dark#gh-dark-mode-only&show_owner=TRUE)](https://github.com/doctopus#gh-dark-mode-only)
 [![Doctopus's Noteworthy Repo -Light](https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=ctDNA-Dataviz&theme=light#gh-light-mode-only&show_owner=TRUE)](https://github.com/doctopus#gh-light-mode-only)
 
 [![Doctopus's Noteworthy Repo 2 -Dark](https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=NGS-Report-Extractor&theme=dark#gh-dark-mode-only&show_owner=TRUE)](https://github.com/doctopus#gh-dark-mode-only)
 [![Doctopus's Noteworthy Repo 2 -Light](https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=NGS-Report-Extractor&theme=light#gh-light-mode-only&show_owner=TRUE)](https://github.com/doctopus#gh-light-mode-only)
 
-<!-- 
-<a href="https://github.com/doctopus/NGS-Report-Extractor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=NGS-Report-Extractor&theme=light#gh-light-mode-only&show_owner=TRUE" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doctopus&repo=NGS-Report-Extractor&theme=dark#gh-dark-mode-only&show_owner=TRUE" />
-</a> 
--->
 
 <!-- Languages and Tools -->
 <h3 align="center">Languages and Tools:</h3>
