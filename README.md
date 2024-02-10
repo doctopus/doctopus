@@ -12,18 +12,20 @@
 </h3>
 
 <!-- Top Languages -->
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=doctopus&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/doctopus/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs?username=doctopus&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/doctopus/github-readme-stats#gh-light-mode-only)
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=doctopus&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only" alt="doctopus" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=doctopus&show_icons=true&locale=en&layout=compact&theme=default#gh-light-mode-only" alt="doctopus" />
--->
+[![Doctopus's GitHub Top Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=doctopus&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/doctopus/github-readme-stats#gh-dark-mode-only)
+[![Doctopus's GitHub Top Languages-Light](https://github-readme-stats.vercel.app/api/top-langs?username=doctopus&show_icons=true&locale=en&layout=compact&theme=default#gh-light-mode-only)](https://github.com/doctopus/github-readme-stats#gh-light-mode-only)
+
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=doctopus&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only" alt="doctopus" /> -->
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=doctopus&show_icons=true&locale=en&layout=compact&theme=default#gh-light-mode-only" alt="doctopus" /> -->
+
 
 <!-- Streaks -->
-[![Doctopus's Github Streaks Dark](https://github-readme-streak-stats.herokuapp.com?user=doctopus&theme=dark#gh-dark-mode-only&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/doctopus)
-[![Doctopus's Github Streaks Light](https://github-readme-streak-stats.herokuapp.com?user=doctopus&theme=light#gh-light-mode-only&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/doctopus)
-<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=doctopus&theme=light#gh-light-mode-only&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My GitHub streaks" />  
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=doctopus&theme=dark#gh-dark-mode-only&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My GitHub streaks" /> 
--->
+[![Doctopus's Github Streaks -Dark](https://github-readme-streak-stats.herokuapp.com?user=doctopus&theme=dark#gh-dark-mode-only&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/doctopus#gh-dark-mode-only)
+[![Doctopus's Github Streaks -Light](https://github-readme-streak-stats.herokuapp.com?user=doctopus&theme=light#gh-light-mode-only&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/doctopus#gh-light-mode-only)
+
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=doctopus&theme=light#gh-light-mode-only&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My GitHub streaks" />  -->
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=doctopus&theme=dark#gh-dark-mode-only&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My GitHub streaks" /> --> 
+
 <br>
 <!-- Snake GIF -->
 <br>
