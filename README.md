@@ -6,11 +6,6 @@
  🧪 Clinical Research, 🧬 Genetics, 🕶️ DataViz & 🖥️ WebDev 🪭
 </h3>
 
-<!-- Top Languages & Streaks-->
-[![Doctopus's GitHub Top Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=doctopus&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/doctopus#gh-dark-mode-only)
-[![Doctopus's GitHub Top Languages-Light](https://github-readme-stats.vercel.app/api/top-langs?username=doctopus&show_icons=true&locale=en&layout=compact&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/doctopus#gh-light-mode-only)
-[![Doctopus's Github Streaks -Dark](https://github-readme-streak-stats.herokuapp.com?user=doctopus&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=490&theme=dark#gh-dark-mode-only)](https://github.com/doctopus#gh-dark-mode-only)
-[![Doctopus's Github Streaks -Light](https://github-readme-streak-stats.herokuapp.com?user=doctopus&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=490&theme=light#gh-light-mode-only)](https://github.com/doctopus#gh-light-mode-only)
 <!-- Snake GIF -->
 <br>
 <picture>
@@ -19,6 +14,13 @@
   <img alt="github-snake" src="https://github.com/doctopus/doctopus/blob/output/github-contribution-grid-snake.svg" />
 </picture> 
 <br>
+
+<!-- Top Languages & Streaks-->
+[![Doctopus's GitHub Top Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=doctopus&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/doctopus#gh-dark-mode-only)
+[![Doctopus's GitHub Top Languages-Light](https://github-readme-stats.vercel.app/api/top-langs?username=doctopus&show_icons=true&locale=en&layout=compact&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/doctopus#gh-light-mode-only)
+[![Doctopus's Github Streaks -Dark](https://github-readme-streak-stats.herokuapp.com?user=doctopus&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=490&theme=dark#gh-dark-mode-only)](https://github.com/doctopus#gh-dark-mode-only)
+[![Doctopus's Github Streaks -Light](https://github-readme-streak-stats.herokuapp.com?user=doctopus&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=490&theme=light#gh-light-mode-only)](https://github.com/doctopus#gh-light-mode-only)
+
 
 <!-- Stats -->
 [![Doctopus's Readme Stats -Dark](https://github-readme-stats.vercel.app/api?username=doctopus&hide=prs&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/doctopus#gh-dark-mode-only)
