@@ -63,6 +63,10 @@
 </picture> 
 </div>
 
+
+[![Doctopus's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=doctopus&bg_color=ffffff&color=206E38&line=41C462&point=007def&area=true&hide_border=true)](https://github.com/doctopus)
+
+
 <!-- Portfolio -->
 💻 Find my portfolio at [doctopus.github.io](https://doctopus.github.io)
 <!-- Profile Views -->
@@ -72,5 +76,3 @@
 doctopus/doctopus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/doctopus/doctopus/master/bgPattern.png');]{x0000}$}
