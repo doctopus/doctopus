@@ -61,20 +61,18 @@
   <source media="(prefers-color-scheme: light)" srcset="https://as2.ftcdn.net/v2/jpg/07/20/20/93/1000_F_720209306_FnzlBQVgW688h1HcP0ik6ppVpD8mjguq.webp" />
   <img alt="light and dark headers based on github theme" src="github-snake.svg" />
 </picture> 
-</div>
-
-
-[![Doctopus's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=doctopus&bg_color=ffffff&color=206E38&line=41C462&point=007def&area=true&hide_border=true)](https://github.com/doctopus)
-
-
-<!-- Portfolio -->
-💻 Find my portfolio at [doctopus.github.io](https://doctopus.github.io)
-
+<!-- Light And Dark Mode Activity Graph Depending on Github Theme -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=doctopus&bg_color=000000&color=206E38&line=41C462&point=007def&area=true&hide_border=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=doctopus&bg_color=ffffff&color=206E38&line=41C462&point=007def&area=true&hide_border=true">
   <img alt="Doctopus's GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=doctopus&bg_color=ffffff&color=206E38&line=41C462&point=007def&area=true&hide_border=true">
 </picture>
+
+</div>
+<!-- Portfolio -->
+💻 Find my portfolio at [doctopus.github.io](https://doctopus.github.io)
+
+
 
 <!-- Profile Views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doctopus&label=Profile%20views&color=0e75b6&style=flat" alt="Doctopus" /> </p>
